@@ -1,0 +1,418 @@
+{
+  "Apotik" : {
+    "Apotik1" : {
+      "alamat" : "Jl. Bendungan Sutami No.3, Sumbersari, Kec. Lowokwaru, Kota Malang, Jawa Timur 65145",
+      "bujur" : 112.613499,
+      "harga_anak" : 3000,
+      "harga_dewasa" : 5000,
+      "hari" : "Buka setiap hari",
+      "jam" : "Jam 08.00 -18.00",
+      "lintang" : -7.960808,
+      "nama" : "Apotik Sutami",
+      "stock_anak" : 34,
+      "stock_dewasa" : 19
+    },
+    "Apotik10" : {
+      "alamat" : "Jalan Raya Sumbersari Kav. 4, Ketawanggede, Lowokwaru, Ketawanggede, Kec. Lowokwaru, Kota Malang, Jawa Timur 65145",
+      "bujur" : 112.609038,
+      "harga_anak" : 4500,
+      "harga_dewasa" : 5400,
+      "hari" : "Setiap Hari",
+      "jam" : "24 jam",
+      "lintang" : -7.951942,
+      "nama" : "Apotek K-24 Gajayana",
+      "stock_anak" : 24,
+      "stock_dewasa" : 33
+    },
+    "Apotik2" : {
+      "alamat" : " Jl. Sigura - Gura No.2, Sumbersari, Lowokwaru, Malang City, East Java 65145",
+      "bujur" : 112.606266,
+      "harga_anak" : 3000,
+      "harga_dewasa" : 4500,
+      "hari" : "Buka setiap hari",
+      "jam" : "Jam 07.00 - 21.45",
+      "lintang" : -7.957529,
+      "nama" : "Apotek Siguragura",
+      "stock_anak" : 4,
+      "stock_dewasa" : 35
+    },
+    "Apotik3" : {
+      "alamat" : "Jl. Bend Sigura-gura Barat, Karangbesuki, Kec Sukun, Kota Malang, Jawa Timur 65149",
+      "bujur" : 112.60609,
+      "harga_anak" : 4000,
+      "harga_dewasa" : 5000,
+      "hari" : "Buka setiap hari",
+      "jam" : "24 jam",
+      "lintang" : -7.955755,
+      "nama" : "Apotek Medika 24",
+      "stock_anak" : 41,
+      "stock_dewasa" : 34
+    },
+    "Apotik4" : {
+      "alamat" : "Jl. Sigura - Gura No.16D, Sumbersari, Kec. Lowokwaru, Kota Malang, Jawa Timur 65145",
+      "bujur" : 112.60563,
+      "harga_anak" : 4000,
+      "harga_dewasa" : 5000,
+      "hari" : "Buka setiap hari",
+      "jam" : "Jam 07.00 - 21.30",
+      "lintang" : -7.956686,
+      "nama" : "Apotek Mahameru",
+      "stock_anak" : 51,
+      "stock_dewasa" : 28
+    },
+    "Apotik5" : {
+      "alamat" : "Jl. Raya Sumbersari No.254C, Sumbersari, Kec. Lowokwaru, Kota Malang, Jawa Timur 65145",
+      "bujur" : 112.611094,
+      "harga_anak" : 4200,
+      "harga_dewasa" : 5100,
+      "hari" : "Setiap Hari",
+      "jam" : "Jam 08.00 - 21.30",
+      "lintang" : -7.954747,
+      "nama" : "Apotek Telaga Nabi",
+      "stock_anak" : 38,
+      "stock_dewasa" : 27
+    },
+    "Apotik6" : {
+      "alamat" : "Mall Malang Town Square Lantai LG Blok LS 18 No. 3, 5, 6, 7, JL. Veteran, Malang, Penanggungan, Klojen, Malang City, East Java 65145",
+      "bujur" : 112.618435,
+      "harga_anak" : 3500,
+      "harga_dewasa" : 5800,
+      "hari" : "Setiap Hari",
+      "jam" : "Jam 08.00 - 21.30",
+      "lintang" : -7.957225,
+      "nama" : "Apotek Plus",
+      "stock-dewasa" : 37,
+      "stock_anak" : 33
+    },
+    "Apotik7" : {
+      "alamat" : "Jl. Mayjend. Panjaitan No.64 C, Penanggungan, Kec. Klojen, Kota Malang, Jawa Timur 65113",
+      "bujur" : 112.622019,
+      "harga_anak" : 4500,
+      "harga_dewasa" : 5000,
+      "hari" : "Setiap Hari",
+      "jam" : "Jam 08.00 - 21.30",
+      "lintang" : -7.956189,
+      "nama" : "Apotek Ramadhani",
+      "stock_anak" : 26,
+      "stock_dewasa" : 53
+    },
+    "Apotik8" : {
+      "alamat" : "Jl. Mayjend. Panjaitan No.119, Penanggungan, Kec. Klojen, Kota Malang, Jawa Timur 65113",
+      "bujur" : 112.620575,
+      "harga_anak" : 3900,
+      "harga_dewasa" : 5000,
+      "hari" : "Setiap Hari",
+      "jam" : "Jam 08.00 - 21.30",
+      "lintang" : -7.954844,
+      "nama" : "Apotek Ns Panjaitan",
+      "stock_anak" : 26,
+      "stock_dewasa" : 41
+    },
+    "Apotik9" : {
+      "alamat" : "Jl. Mayjend. Panjaitan No.117, Penanggungan, Kec. Klojen, Kota Malang, Jawa Timur 65113",
+      "bujur" : 112.620589,
+      "harga_anak" : 4000,
+      "harga_dewasa" : 5200,
+      "hari" : "Setiap Hari",
+      "jam" : "Jam 08.00 - 21.30",
+      "lintang" : -7.954868,
+      "nama" : "Apotik Bethek Farma",
+      "stock_anak" : 44,
+      "stock_dewasa" : 34
+    }
+  },
+  "Pengguna" : {
+    "1lYTYim8mkMEgKRHe8ANNzYee6R2" : {
+      "email" : "nabila@gmail.com",
+      "nama" : "Nabila2342",
+      "nik" : "4316184664"
+    },
+    "BWhMEInmIvPy1Z9s0Kxg0PJKZft2" : {
+      "email" : "q@gmail.com",
+      "nama" : "lidyaku",
+      "nik" : "6434554344884"
+    },
+    "WJ2XZzHkNHOIBYKdIKmsQ8a42pt2" : {
+      "email" : "lidyaaa@gmail.com",
+      "nama" : "lidya",
+      "nik" : "527866"
+    },
+    "Xt3US0SeOtNciBVv7TMsQXEzuzA3" : {
+      "email" : "mkhalidp@gmail.com",
+      "nama" : "khalidp",
+      "nik" : "9464464884"
+    },
+    "ihD3cAkhBihHrH37ofveyabFz8w1" : {
+      "email" : "bebekkece0@email.com",
+      "nama" : "Bebek Kece",
+      "nik" : "1234567891"
+    },
+    "lEHxfPzb8IhuKkTPlFdrPZDbSoY2" : {
+      "email" : "pipah@email.com",
+      "nama" : "Pipah",
+      "nik" : "1234567890"
+    },
+    "mmNwDWdoDMgpg31Mge0aIStMdlp1" : {
+      "email" : "bebekbisa@email.com",
+      "nama" : "Bebek Bisa",
+      "nik" : "1234567892"
+    },
+    "n8V6iAM28ZMb5kaq8qDN2mobIq32" : {
+      "email" : "bebeb@email.com",
+      "nama" : "Bebeb",
+      "nik" : "1234567893"
+    },
+    "onphhiOpJZSUdNFbbaB39ewh13q2" : {
+      "email" : "lidyaa@gmail.com",
+      "nama" : "Nur Fajri Hayyuni Maulidya",
+      "nik" : "527866"
+    },
+    "pJmpxHjLxTg2QVAgrUVS0Hs9J0s2" : {
+      "email" : "apip2@email.com",
+      "nama" : "Apip",
+      "nik" : "123456789"
+    }
+  },
+  "Pesanan" : {
+    "ihD3cAkhBihHrH37ofveyabFz8w1" : {
+      "-M73smp4N-YQNrd7ylVR" : {
+        "id_apotik" : "Apotik1",
+        "id_pengguna" : "ihD3cAkhBihHrH37ofveyabFz8w1",
+        "masker_anak" : 2,
+        "masker_dewasa" : 2,
+        "nama_apotik" : "Apotik Sutami",
+        "tanggal" : "12/05/2020 00:58:16",
+        "total_harga" : 16000
+      },
+      "-M73snxOnbfXvHiiW97v" : {
+        "id_apotik" : "Apotik1",
+        "id_pengguna" : "ihD3cAkhBihHrH37ofveyabFz8w1",
+        "masker_anak" : 2,
+        "masker_dewasa" : 2,
+        "nama_apotik" : "Apotik Sutami",
+        "tanggal" : "12/05/2020 00:58:21",
+        "total_harga" : 16000
+      },
+      "-M74IE3M_baJC6-BTuUX" : {
+        "id_apotik" : "Apotik10",
+        "id_pengguna" : "ihD3cAkhBihHrH37ofveyabFz8w1",
+        "masker_anak" : 1,
+        "masker_dewasa" : 1,
+        "nama_apotik" : "Apotek K-24 Gajayana",
+        "tanggal" : "12/05/2020 02:53:47",
+        "total_harga" : 9900
+      },
+      "-M74KkV5-DkF83ftKWNC" : {
+        "id_apotik" : "Apotik10",
+        "id_pengguna" : "ihD3cAkhBihHrH37ofveyabFz8w1",
+        "masker_anak" : 1,
+        "masker_dewasa" : 1,
+        "nama_apotik" : "Apotek K-24 Gajayana",
+        "tanggal" : "12/05/2020 03:04:49",
+        "total_harga" : 9900
+      },
+      "-M74QRDTyNdEpY7Inldy" : {
+        "id_apotik" : "Apotik10",
+        "id_pengguna" : "ihD3cAkhBihHrH37ofveyabFz8w1",
+        "masker_anak" : 1,
+        "masker_dewasa" : 1,
+        "nama_apotik" : "Apotek K-24 Gajayana",
+        "tanggal" : "12/05/2020 03:29:38",
+        "total_harga" : 9900
+      },
+      "-M74QwbIX_X_9i6ho9hK" : {
+        "id_apotik" : "Apotik4",
+        "id_pengguna" : "ihD3cAkhBihHrH37ofveyabFz8w1",
+        "masker_anak" : 1,
+        "masker_dewasa" : 1,
+        "nama_apotik" : "Apotek Mahameru",
+        "tanggal" : "12/05/2020 03:31:51",
+        "total_harga" : 9000
+      },
+      "-M74RRuKasZa94Ld8ndp" : {
+        "id_apotik" : "Apotik8",
+        "id_pengguna" : "ihD3cAkhBihHrH37ofveyabFz8w1",
+        "masker_anak" : 1,
+        "masker_dewasa" : 1,
+        "nama_apotik" : "Apotek Ns Panjaitan",
+        "tanggal" : "12/05/2020 03:34:03",
+        "total_harga" : 8900
+      },
+      "-M74SJgUxPKP0dabZwQd" : {
+        "id_apotik" : "Apotik9",
+        "id_pengguna" : "ihD3cAkhBihHrH37ofveyabFz8w1",
+        "masker_anak" : 1,
+        "masker_dewasa" : 1,
+        "nama_apotik" : "Apotik Bethek Farma",
+        "tanggal" : "12/05/2020 03:37:52",
+        "total_harga" : 9200
+      },
+      "-M74U14ox_ueB4ljI3TR" : {
+        "id_apotik" : "Apotik8",
+        "id_pengguna" : "ihD3cAkhBihHrH37ofveyabFz8w1",
+        "masker_anak" : 1,
+        "masker_dewasa" : 1,
+        "nama_apotik" : "Apotek Ns Panjaitan",
+        "tanggal" : "12/05/2020 03:45:20",
+        "total_harga" : 8900
+      },
+      "-M74ZDxLBtAyua617JAJ" : {
+        "id_apotik" : "Apotik7",
+        "id_pengguna" : "ihD3cAkhBihHrH37ofveyabFz8w1",
+        "masker_anak" : 1,
+        "masker_dewasa" : 1,
+        "nama_apotik" : "Apotek Ramadhani",
+        "tanggal" : "12/05/2020 04:08:03",
+        "total_harga" : 9500
+      },
+      "-M74cOQ3LbXhnNdZgKiC" : {
+        "id_apotik" : "Apotik7",
+        "id_pengguna" : "ihD3cAkhBihHrH37ofveyabFz8w1",
+        "masker_anak" : 1,
+        "masker_dewasa" : 1,
+        "nama_apotik" : "Apotek Ramadhani",
+        "tanggal" : "12/05/2020 04:26:15",
+        "total_harga" : 9500
+      },
+      "-M761JmS-7fCmJAICyAA" : {
+        "id_apotik" : "Apotik2",
+        "id_pengguna" : "ihD3cAkhBihHrH37ofveyabFz8w1",
+        "masker_anak" : 2,
+        "masker_dewasa" : 1,
+        "nama_apotik" : "Apotek Siguragura",
+        "tanggal" : "12/05/2020 10:59:09",
+        "total_harga" : 10500
+      },
+      "-M763oLMrHOEtnQ4G7-j" : {
+        "id_apotik" : "Apotik2",
+        "id_pengguna" : "ihD3cAkhBihHrH37ofveyabFz8w1",
+        "masker_anak" : 3,
+        "masker_dewasa" : 1,
+        "nama_apotik" : "Apotek Siguragura",
+        "tanggal" : "12/05/2020 11:10:02",
+        "total_harga" : 13500
+      },
+      "-M76YvybeOnjbAYgO_Ap" : {
+        "id_apotik" : "Apotik7",
+        "id_pengguna" : "ihD3cAkhBihHrH37ofveyabFz8w1",
+        "masker_anak" : 3,
+        "masker_dewasa" : 1,
+        "nama_apotik" : "Apotek Ramadhani",
+        "tanggal" : "12/05/2020 13:25:59",
+        "total_harga" : 18500
+      },
+      "-M76iWs9jU-02AQDNtSL" : {
+        "id_apotik" : "Apotik2",
+        "id_pengguna" : "ihD3cAkhBihHrH37ofveyabFz8w1",
+        "masker_anak" : 1,
+        "masker_dewasa" : 1,
+        "nama_apotik" : "Apotek Siguragura",
+        "tanggal" : "12/05/2020 14:12:16",
+        "total_harga" : 7500
+      },
+      "-M76lGC2vC6eP1AONXwF" : {
+        "id_apotik" : "Apotik10",
+        "id_pengguna" : "ihD3cAkhBihHrH37ofveyabFz8w1",
+        "masker_anak" : 1,
+        "masker_dewasa" : 1,
+        "nama_apotik" : "Apotek K-24 Gajayana",
+        "tanggal" : "12/05/2020 14:24:14",
+        "total_harga" : 5400
+      },
+      "-M7C6aWi8wkeNBfzkCxv" : {
+        "id_apotik" : "Apotik5",
+        "id_pengguna" : "ihD3cAkhBihHrH37ofveyabFz8w1",
+        "masker_anak" : 3,
+        "masker_dewasa" : 3,
+        "nama_apotik" : "Apotek Telaga Nabi",
+        "tanggal" : "13/05/2020",
+        "total_harga" : 19500
+      },
+      "-M7C95124fmlOqb_VQQq" : {
+        "id_apotik" : "Apotik3",
+        "id_pengguna" : "ihD3cAkhBihHrH37ofveyabFz8w1",
+        "masker_anak" : 0,
+        "masker_dewasa" : 0,
+        "nama_apotik" : "Apotek Medika 24",
+        "tanggal" : "13/05/2020",
+        "total_harga" : 8000
+      },
+      "-M7C9_bDZ6UMWq1SxCf6" : {
+        "id_apotik" : "Apotik4",
+        "id_pengguna" : "ihD3cAkhBihHrH37ofveyabFz8w1",
+        "masker_anak" : 0,
+        "masker_dewasa" : 0,
+        "nama_apotik" : "Apotek Mahameru",
+        "tanggal" : "13/05/2020",
+        "total_harga" : 4000
+      }
+    },
+    "onphhiOpJZSUdNFbbaB39ewh13q2" : {
+      "-M73ATl0CFaClLMhyGT0" : {
+        "id_apotik" : "Apotik1",
+        "id_pengguna" : "onphhiOpJZSUdNFbbaB39ewh13q2",
+        "masker_anak" : 0,
+        "masker_dewasa" : 1,
+        "nama_apotik" : "Apotik Sutami",
+        "tanggal" : "11/05/2020 21:40:17",
+        "total_harga" : 5000
+      },
+      "-M73WXK1w2vEWZnDQWdf" : {
+        "id_apotik" : "Apotik1",
+        "id_pengguna" : "onphhiOpJZSUdNFbbaB39ewh13q2",
+        "masker_anak" : 1,
+        "masker_dewasa" : 1,
+        "nama_apotik" : "Apotik Sutami",
+        "tanggal" : "11/05/2020 23:16:39",
+        "total_harga" : 8000
+      },
+      "-M74tPZVSoTT8mOyUqnB" : {
+        "id_apotik" : "Apotik4",
+        "id_pengguna" : "onphhiOpJZSUdNFbbaB39ewh13q2",
+        "masker_anak" : 3,
+        "masker_dewasa" : 3,
+        "nama_apotik" : "Apotek Mahameru",
+        "tanggal" : "12/05/2020 05:40:35",
+        "total_harga" : 0
+      },
+      "-M74v72TCi3Y_xH4fTyo" : {
+        "id_apotik" : "Apotik8",
+        "id_pengguna" : "onphhiOpJZSUdNFbbaB39ewh13q2",
+        "masker_anak" : 1,
+        "masker_dewasa" : 2,
+        "nama_apotik" : "Apotek Ns Panjaitan",
+        "tanggal" : "12/05/2020 05:48:04",
+        "total_harga" : 0
+      },
+      "-M74xyZTQ_LacFyuC50S" : {
+        "id_apotik" : "Apotik3",
+        "id_pengguna" : "onphhiOpJZSUdNFbbaB39ewh13q2",
+        "masker_anak" : 1,
+        "masker_dewasa" : 1,
+        "nama_apotik" : "Apotek Medika 24",
+        "tanggal" : "12/05/2020 06:00:32",
+        "total_harga" : 9000
+      },
+      "-M75OiR6uGfBpYGjTVDm" : {
+        "id_apotik" : "Apotik10",
+        "id_pengguna" : "onphhiOpJZSUdNFbbaB39ewh13q2",
+        "masker_anak" : 2,
+        "masker_dewasa" : 2,
+        "nama_apotik" : "Apotek K-24 Gajayana",
+        "tanggal" : "12/05/2020 08:01:46",
+        "total_harga" : 19800
+      }
+    },
+    "pJmpxHjLxTg2QVAgrUVS0Hs9J0s2" : {
+      "-M7CIC0SbQHE5DEPtkPj" : {
+        "id_apotik" : "Apotik10",
+        "id_pengguna" : "pJmpxHjLxTg2QVAgrUVS0Hs9J0s2",
+        "masker_anak" : 1,
+        "masker_dewasa" : 1,
+        "nama_apotik" : "Apotek K-24 Gajayana",
+        "tanggal" : "13/05/2020",
+        "total_harga" : 18900
+      }
+    }
+  }
+}
